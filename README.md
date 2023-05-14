@@ -3,4 +3,5 @@
 * open file or project with Intellij IDE
 * click file - project sturcture and add libraries "selenium-java-3.141.59" and apply
 * setting configuration and set up to mainClass to "ebay.java", apply
+* edit version chromedriver in ebay.java
 * done for configuration
